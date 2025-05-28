@@ -48,14 +48,6 @@ The dataset contains detailed information about each shot taken:
 
 ---
 
-## 📌 Getting Started
-
-1. Clone or download the repository.
-2. Place the `nba_players_shooting.csv` dataset in the same directory as the notebook.
-3. Run the notebook using Jupyter or any compatible Python environment.
-
----
-
 ## 📈 Sample Visual Output
 
 - Shot scatter plots
